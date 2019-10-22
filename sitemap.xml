@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zhuqunxi.github.io/about/index.html</loc>
+    
+    <lastmod>2019-10-22T15:55:16.151Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://zhuqunxi.github.io/2018/03/22/hello-world/</loc>
     
     <lastmod>2019-10-17T01:34:06.532Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>https://zhuqunxi.github.io/publications/index.html</loc>
     
     <lastmod>2019-09-24T16:35:01.772Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://zhuqunxi.github.io/about/index.html</loc>
-    
-    <lastmod>2019-09-18T22:19:50.971Z</lastmod>
     
   </url>
   
